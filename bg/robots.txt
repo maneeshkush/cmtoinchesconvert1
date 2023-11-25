@@ -1,0 +1,7 @@
+User-Agent:  *
+Crawl-delay: 10
+Disallow: /en/
+Sitemap: https://www.cmtoinchesconvert.com/bg/5350551_1356.xml
+
+
+Sitemap: https://www.cmtoinchesconvert.com/bg/5350551_1356.xml

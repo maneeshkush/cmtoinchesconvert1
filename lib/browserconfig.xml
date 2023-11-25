@@ -1,0 +1,52 @@
+<browserconfig>
+<msapplication>
+<tile>
+<square150x150logo src="/lib/favicon/mstile-150x150.png"/>
+<TileColor>#da532c</TileColor>
+</tile>
+</msapplication>
+</browserconfig>
+
+
+
+cm.com\convert\weight\gram-to-ounce.html
+cm.com\convert\temperature\fahrenheit-to-rankine.html
+cm.com\convert\temperature\fahrenheit-to-kelvin.html
+cm.com\convert\temperature\celsius-to-rankine.html
+cm.com\convert\temperature\celsius-to-kelvin.html
+cm.com\convert\number\scientific-notation-converter.html
+cm.com\convert\length\inch-to-mm.html
+cm.com\convert\length\inch-to-cm.html
+cm.com\convert\length\feet-inch-to-cm.html
+cm.com\convert\image\rgb-to-grayscale.html
+cm.com\convert\image\png-to-jpg.html
+cm.com\convert\image\png-to-gif.html
+cm.com\convert\image\jpg-to-png.html
+cm.com\convert\image\jpg-to-gif.html
+cm.com\convert\image\jpg-to-bmp.html
+cm.com\convert\image\gif-to-png.html
+cm.com\convert\image\bmp-to-jpg.html
+cm.com\calc\math\percentage-calculator.html
+
+
+
+
+calc\time\weeks-in-year.html   4
+cm.com\convert\color\rgb-to-hsl.html   2
+cm.com\convert\color\rgb-to-hsv.html  2
+cm.com\convert\voltage\volt-to-gv.html   2
+cm.com\pdf\image-to-pdf.html   2
+cm.com\pdf\jpg-to-pdf.html  2
+cm.com\pdf\png-to-pdf.html  2
+cm.com\text\ocr.html  2
+cm.com\tools\bar-graph.html 4
+cm.com\tools\clock.html  4
+cm.com\tools\current-time.html  4
+cm.com\tools\pie-chart.html  4
+cm.com\tools\scatter-plot.html   4
+cm.com\tools\todays-date.html  4
+cm.com\web\html\html-link.html   2
+cm.com\web\tools\html-editor.html  3
+cm.com\web\tools\html-link-code.html  2
+m.com\web\tools\html-table-generator.html   2
+cm.com\web\tools\svg-viewer-editor.html  4
